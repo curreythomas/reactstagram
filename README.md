@@ -15,6 +15,7 @@ create a .env file after you get your access token and put your token in the fil
 `INSTAGRAM_TOKEN='{access_token_here}'`
 
 
+
 ## Screenshots
 
-![splash-page]() ![feed-of-images]()
+<img src="https://github.com/curreythomas/reactstagram/blob/master/assets/imgs/splash-screenshot.jpg" width="200"> <img src="https://github.com/curreythomas/reactstagram/blob/master/assets/imgs/feed-screenshot.jpg" width="200">
